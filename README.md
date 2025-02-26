@@ -1,7 +1,7 @@
 # DFA
 ## 1. Información de los Estudiantes del equipo
-- **Nombre del estudiante:** Camilo ALvarez Villegas, Sara Echeverri
-- **Número de clase:** Camilo ALvarez VIllegas(Lunes de 6pm-9pm 7308), Sara Echeverri(Miercoles de 6pm-9pm)
+- **Nombre del estudiante:** Camilo Alvarez Villegas, Sara Echeverri
+- **Número de clase:** Camilo Alvarez Villegas(Lunes de 6pm-9pm 7308), Sara Echeverri(Miercoles de 6pm-9pm)
 
 ## 2. Versiones del Sistema Operativo, Lenguaje de Programación y Herramientas
 - **Sistema Operativo:** Windows 10 (64-bit) 
@@ -11,16 +11,15 @@
 
 ## 3. Instrucciones para Ejecutar la Implementación
 1. **Descargar o clonar** 
-2. Asegurarse de tener **Python 3** instalado y disponible en la terminal.
-3. Ubicar el archivo **`input.txt`** en la misma carpeta donde está el código `minimiza_dfa.py`.
-4. Abrir una terminal en la carpeta donde se encuentra el archivo.
-5. Ejecutar el script con el siguiente comando:
+2. Asegurarse de tener **Python 3** instalado
+3. Ubicar el archivo **`input.txt`** en la misma carpeta donde está el código `minimiza_dfa.py`
+4. Ejecutar el script con el siguiente comando:
    ```bash
    python minimiza_dfa.py
    ```
    o instalar la extencion code runner y ejecutar normalmente el codigo
   
-6. El programa leerá el archivo **`input.txt`** y mostrará los resultados en la consola.
+5. El programa leerá el archivo **`input.txt`** y mostrará los resultados en la consola.
 
 ### Formato del Archivo `input.txt`
 El archivo de entrada debe seguir el siguiente formato:
