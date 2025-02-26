@@ -28,7 +28,7 @@ El archivo de entrada debe seguir el siguiente formato:
    - Una línea con un número entero, que representa la cantidad de estados.
    - Una línea con los símbolos del alfabeto (separados por espacios).
    - Una línea con los estados finales (separados por espacios).
-   - `n` líneas, cada una con las transiciones de un estado (una fila por estado, con una columna por cada símbolo del alfabeto).
+   - n líneas, cada una con las transiciones de un estado (una fila por estado, con una columna por cada símbolo del alfabeto).
 
 ## 4. Explicación del Algoritmo
 Este programa implementa el **algoritmo de minimización de DFA**.
