@@ -1,5 +1,5 @@
 # DFA
-## 1. Información del Estudiante
+## 1. Información de los Estudiantes del equipo
 - **Nombre del estudiante:** Camilo ALvarez Villegas, Sara Echeverri
 - **Número de clase:** Camilo ALvarez VIllegas(Lunes de 6pm-9pm 7308), Sara Echeverri(Miercoles de 6pm-9pm)
 
