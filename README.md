@@ -31,7 +31,7 @@ El archivo de entrada debe seguir el siguiente formato:
    - `n` líneas, cada una con las transiciones de un estado (una fila por estado, con una columna por cada símbolo del alfabeto).
 
 ## 4. Explicación del Algoritmo
-Este programa implementa el **algoritmo de minimización de DFA**. A continuación, se explica su funcionamiento:
+Este programa implementa el **algoritmo de minimización de DFA**.
 
 1. **Marcar pares de estados distinguibles (Paso Inicial)**
    - Se marcan como diferentes aquellos pares `(p, q)` donde uno es un estado final y el otro no lo es.
